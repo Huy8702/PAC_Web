@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\visitorstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\visitorstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\systemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\systemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\supportonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\supportonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\postcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\postcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\menugroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\menugroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\models\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\models\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\abstract\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\abstract\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|d:\\works\\pac\\auto_cooking\\web_dev\\visual project\\pac_web_sourcecode\\git\\pac_web.model\\abstract\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A9DFC-1FBF-4A9B-BA18-831BF9E7201F}|PAC_Web.Model\\PAC_Web.Model.csproj|solutionrelative:pac_web.model\\abstract\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\Post.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Post.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\Post.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:06:42.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitorStatistic.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\VisitorStatistic.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\VisitorStatistic.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\VisitorStatistic.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\VisitorStatistic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:33:09.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemConfig.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\SystemConfig.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\SystemConfig.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\SystemConfig.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\SystemConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:30:42.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupportOnline.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\SupportOnline.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\SupportOnline.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\SupportOnline.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\SupportOnline.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:27:31.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\Tag.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Tag.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\Tag.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:25:46.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\Slide.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Slide.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\Slide.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:22:08.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\ProductTag.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\ProductTag.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\ProductTag.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\ProductTag.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:20:34.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostTag.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\PostTag.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\PostTag.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\PostTag.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\PostTag.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:14:40.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostCategory.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\PostCategory.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\PostCategory.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\PostCategory.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\PostCategory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:10:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Page.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Page.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\Page.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Page.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\Page.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:04:24.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\Product.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Product.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:19:33.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:01:20.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\Order.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Order.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:56:30.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuGroup.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\MenuGroup.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\MenuGroup.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\MenuGroup.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\MenuGroup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:09:33.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Footer.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Footer.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\Footer.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Footer.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\Footer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:05:16.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\ProductCategory.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA1wCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:43:08.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Models\\Menu.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Models\\Menu.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Models\\Menu.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:12:19.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Auditable.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Abstract\\Auditable.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Abstract\\Auditable.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Abstract\\Auditable.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Abstract\\Auditable.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:24:12.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuditable.cs",
+              "DocumentMoniker": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Abstract\\IAuditable.cs",
+              "RelativeDocumentMoniker": "PAC_Web.Model\\Abstract\\IAuditable.cs",
+              "ToolTip": "D:\\Works\\PAC\\Auto_Cooking\\Web_Dev\\Visual Project\\PAC_Web_SourceCode\\Git\\PAC_Web.Model\\Abstract\\IAuditable.cs",
+              "RelativeToolTip": "PAC_Web.Model\\Abstract\\IAuditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:22:48.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
