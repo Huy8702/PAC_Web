@@ -20,7 +20,7 @@ namespace PAC_Web.Model.Models
         public string Name { get; set; }
 
         [Required]
-        [MaxLength(50)]
+        [MaxLength(256)]
         public string URL { get; set; }
         public int? DisplayOrder {  get; set; }
 
