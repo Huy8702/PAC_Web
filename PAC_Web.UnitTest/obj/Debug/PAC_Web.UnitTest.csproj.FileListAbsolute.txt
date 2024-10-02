@@ -92,3 +92,13 @@ D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.
 D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\obj\Debug\PAC_Web..C7D8FDA3.Up2Date
 D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\obj\Debug\PAC_Web.UnitTest.dll
 D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\obj\Debug\PAC_Web.UnitTest.pdb
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\bin\Debug\PAC_Web.UnitTest.dll.config
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\bin\Debug\Castle.Core.dll
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\bin\Debug\Moq.dll
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\bin\Debug\Castle.Core.xml
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml

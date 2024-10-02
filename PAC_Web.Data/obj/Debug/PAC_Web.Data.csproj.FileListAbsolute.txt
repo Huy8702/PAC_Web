@@ -31,3 +31,4 @@ D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.
 D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.Data\obj\Debug\PAC_Web.Data.pdb
 D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.Data\obj\Debug\PAC_Web.Data.Migrations.InitialDB.resources
 D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.Data\obj\Debug\PAC_Web.Data.csproj.GenerateResource.cache
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.Data\obj\Debug\PAC_Web.Data.Migrations.datetime_datatypemigration.resources
