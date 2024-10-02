@@ -28,3 +28,5 @@ D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.
 D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.Service\obj\Debug\PAC_Web..A160932C.Up2Date
 D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.Service\obj\Debug\PAC_Web.Service.dll
 D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.Service\obj\Debug\PAC_Web.Service.pdb
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.Service\bin\Debug\EntityFramework.dll
+D:\Works\PAC\Auto_Cooking\Web_Dev\Visual Project\PAC_Web_SourceCode\Git\PAC_Web.Service\bin\Debug\EntityFramework.xml
